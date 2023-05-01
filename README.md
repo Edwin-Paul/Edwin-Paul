@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Edwin-Paul?tab=repositories](https://github.com/Edwin-Paul?tab=repositories)
 
-- 💬 Ask me about **Python,SQL**,AWS
+- 💬 Ask me about **Python,SQL,AWS**
 
 - 📫 How to reach me **pauledwinnderitu@gmail.com**
 
